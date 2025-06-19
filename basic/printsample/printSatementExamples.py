@@ -1,9 +1,9 @@
 # Example-1
-print("tharun")
+print("gautham")
 
 #Formatting with placeholders
-print("I'm going to inject %s here." %'tharun')
-print("I'm going to inject %s text here, and %s text here.%s" %('some','more','tharu'))
+print("I'm going to inject %s here." %'gautham')
+print("I'm going to inject %s text here, and %s text here.%s" %('some','more','gautham'))
 
 x, y , z= 'some', 'more' , 'tharun'
 print("I'm going to inject %s text here, and %s text here. %s"%(x,y , z))

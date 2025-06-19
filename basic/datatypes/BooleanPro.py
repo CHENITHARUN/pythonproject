@@ -29,9 +29,6 @@ print(x < y)   # True
 print(x == y)  # False
 print(x != y)  # True
 
-
-
-
 """
 4. Boolean in Conditional Statements
 """
